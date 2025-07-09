@@ -1,5 +1,8 @@
 # 💸 DeFi Liquidity Pool (LP) Strategy Simulator
 
+### 🚀 [VIEW THE LIVE DEMO HERE](https://defi-lp-simulator-bwipc8kux6smhj4ata645c.streamlit.app/) 🚀
+
+
   <img width="1421" height="784" alt="Image" src="https://github.com/user-attachments/assets/299fa0ea-7131-4f92-b850-5ab9ddaf8baa" />
 
   <img width="1428" height="816" alt="Image" src="https://github.com/user-attachments/assets/45cb693d-964d-4de4-a9f4-2379b6da8591" />
